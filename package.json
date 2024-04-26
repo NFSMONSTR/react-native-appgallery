@@ -36,13 +36,16 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/fasky-software/react-native-appgallery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NFSMONSTR/react-native-appgallery.git"
+  },
   "author": "Thomas Leiter <thomas.leiter@outlook.at> (https://github.com/tomLadder)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fasky-software/react-native-appgallery/issues"
+    "url": "https://github.com/NFSMONSTR/react-native-appgallery/issues"
   },
-  "homepage": "https://github.com/fasky-software/react-native-appgallery#readme",
+  "homepage": "https://github.com/NFSMONSTR/react-native-appgallery#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
